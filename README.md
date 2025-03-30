@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html>
     <head>
-       <title>College CoST</title> 
+      </title> 
        <meta charset=" UTF-8">
        <meta name=" viewport" content="width= device-width, intial-scale=1.0" >
        <link href=" https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel ="stylesheet">
        <link rel="icon" type="C:\Users\Lenovo-ThinkBook14\Desktop\ITE103.html\Images\icon.jpg" href="C:\Users\Lenovo-ThinkBook14\Desktop\ITE103.html\Images\icon.jpg">
        <style>
         img {
-            border:4px solid darkblue;
+          
         }
        </style>
     </head>
